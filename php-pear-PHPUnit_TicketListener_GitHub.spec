@@ -72,3 +72,17 @@ fi
 %{_datadir}/pear/PHPUnit/Extensions/TicketListener/GitHub.php
 %{_datadir}/pear/packages/PHPUnit_TicketListener_GitHub.xml
 
+
+
+%changelog
+* Fri Dec 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.0-2mdv2012.0
++ Revision: 742218
+- fix major breakage by careless packager
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.0-1
++ Revision: 730899
+- import php-pear-PHPUnit_TicketListener_GitHub
+
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.0-1mdv2010.2
+- initial Mandriva package
