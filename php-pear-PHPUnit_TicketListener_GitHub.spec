@@ -3,7 +3,7 @@
 Summary:	A ticket listener for PHPUnit that interacts with the GitHub issue API
 Name:		php-pear-%{upstream_name}
 Version:	1.0.0
-Release:	3
+Release:	4
 License:	BSD
 Group:		Development/PHP
 URL:		http://www.phpunit.de/
